@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="USSDProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/USSDProject_jar</output-path>
+    <root id="root">
+      <element id="archive" name="USSDProject.jar">
+        <element id="module-output" name="USSDProject" />
+        <element id="module-test-output" name="USSDProject" />
+      </element>
+      <element id="library" level="module" name="JUnit4" module-name="USSDProject" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.35" />
+    </root>
+  </artifact>
+</component>

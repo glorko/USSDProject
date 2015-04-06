@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jorphan">
+    <CLASSES>
+      <root url="jar:///usr/share/jmeter/lib/jorphan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
